@@ -1,0 +1,8 @@
+name=(input("enter the name: "))
+print("name: ", name)
+age=int(input("Enter the age: "))
+print("age: ", age)
+height=float(input("Enter the height: "))
+print("height: ", height)
+exp1=eval(input("Enter any expression: "))
+print("expression: ", exp1)
