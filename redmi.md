@@ -1,3 +1,3 @@
-# day 1
+# day 2
 
-Basic datatype program
+Basic comparision operator program
