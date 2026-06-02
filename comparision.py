@@ -1,0 +1,14 @@
+no1=10
+no2=20
+result1=no1<no2
+print("result1=",result1)
+result2=no1>no2
+print("result2=",result2)               
+result3=no1<=no2
+print("result3=",result3)   
+result4=no1>=no2
+print("result4=",result4)
+result5=no1==no2
+print("result5=",result5)
+result6=no1!=no2
+print("result6=",result6)
