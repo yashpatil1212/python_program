@@ -1,4 +1,4 @@
-#Write a program to check whether a number is odd or even.
+#Write a program to check whether a number is odd or even
 #taking input from the user
 num = int(input("Enter a any  Number:"))
 
