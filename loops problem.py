@@ -17,6 +17,6 @@ print(y)
 z=a.title()
 print(z)
 
-#write a program to find th eindex numbers of "fit in".
+#write a program to find the index numbers of "fit in".
 
 print(a.find("fit in"))
