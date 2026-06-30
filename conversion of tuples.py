@@ -1,0 +1,10 @@
+a=("oneplus","nokia","redmi")
+print("before conversion",type(a))
+
+a=list(a)
+print("after conversion",type(a))
+a.append("vivo")
+print(a)
+a=tuple(a)
+print(type(a))
+print(a)
